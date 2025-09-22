@@ -7,7 +7,7 @@
 
 <h2 align="left">Sobre mim</h2>
 
-<img align="right" height="130" src="https://media1.tenor.com/m/nPd-ijwBSKQAAAAd/hacker-pc.gif" alt="Gif Hacker" />
+<img align="right" height="120" src="https://media1.tenor.com/m/nPd-ijwBSKQAAAAd/hacker-pc.gif" alt="Gif Hacker" />
 
 - 🔭 Atualmente estudando **Python e C++**  
 - 🌱 Explorando **back-end, automação e projetos pessoais**  

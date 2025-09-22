@@ -1,10 +1,14 @@
-<h2 align="left">Hi 👋! my name is Jefferson, I am a junior programmer.....</h2>
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=👋+Olá,+eu+sou+Jefferson!;💻+Programador+Júnior;🚀+Sempre+aprendendo+novas+tecnologias">
+</p>
 
-###
-
+<h2 align="left">Sobre mim</h2>
 <img align="right" height="150" src="https://media1.tenor.com/m/nPd-ijwBSKQAAAAd/hacker-pc.gif"  />
-
-###
+- 🔭 Atualmente estudando **Python e C++**  
+- 🌱 Explorando **back-end, automação e projetos pessoais**  
+- 🎯 Sonho: seguir carreira na área de **tecnologia e segurança**  
+- ⚡ Curiosidade: sempre buscando aprender algo novo 🚀  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffpro013&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
@@ -34,6 +38,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jeffpro013/jeffpro013/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
